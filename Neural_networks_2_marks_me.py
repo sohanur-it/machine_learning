@@ -102,7 +102,7 @@ for i in range(1000): # trains the NN 1,000 times
    print ("Input (scaled): \n" + str(X))
    print ("Actual Output: \n" + str(y))
    print ("Predicted Output: \n" + str(NN.forward(X)))
-   print ("Loss: \n" + str(NN.costfunction(X,Y))) # mean sum squared loss
+   print ("Loss: \n" + str(NN.costfunction(X,Y)))
    print ("\n")
    NN.trains(X,Y)
   
