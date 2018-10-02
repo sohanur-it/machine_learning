@@ -17,6 +17,9 @@ color -- 1	  0	  1	  0	  1	  0	 1	  ??
 o  o  length,width
 
 </pre>
+<img src="https://github.com/sohanur-it/machine_learning/blob/master/color_predict.png" height="400px" width="500px">
+
+
 
 
 
@@ -30,8 +33,9 @@ o  o  length,width
 3,                  6               ---89
 4,                  8                ---?
 </pre>
+<img src="https://enlight.nyc/img/FeedForwardNeuralNetwork.svg" height="300px" width="300px">
 
-<div style="width:image width px; font-size:80%; text-align:center;"><b>Model of our neural Network</b><img src="https://enlight.nyc/img/FeedForwardNeuralNetwork.svg" alt="alternate text" width="width" height="height" style="padding-bottom:0.5em;" /><</div>
 
+<h3>Backprogation</h3>
 <img src="https://github.com/sohanur-it/machine_learning/blob/master/A%2B%20Gallery_7.jpg" height="300px" width="300px">
 <img src="https://github.com/sohanur-it/machine_learning/blob/master/A%2B%20Gallery_9.jpg" height="300px" width="300px">
