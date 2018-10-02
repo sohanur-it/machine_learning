@@ -17,7 +17,10 @@ color -- 1	  0	  1	  0	  1	  0	 1	  ??
 o  o  length,width
 
 </pre>
+<h3>Model --</h3>
 <img src="https://github.com/sohanur-it/machine_learning/blob/master/color_predict.png" height="400px" width="500px">
+<img src="https://github.com/sohanur-it/machine_learning/blob/master/model1.jpg" height="400px" width="500px">
+
 
 
 
