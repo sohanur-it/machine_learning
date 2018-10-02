@@ -9,5 +9,8 @@
 3,                  6               ---89
 4,                  8                ---?
 </pre>
+
+<div style="width:image width px; font-size:80%; text-align:center;"><b>Model of our neural Network</b><img src="https://enlight.nyc/img/FeedForwardNeuralNetwork.svg" alt="alternate text" width="width" height="height" style="padding-bottom:0.5em;" /><</div>
+
 <img src="https://github.com/sohanur-it/machine_learning/blob/master/A%2B%20Gallery_7.jpg" height="300px" width="300px">
 <img src="https://github.com/sohanur-it/machine_learning/blob/master/A%2B%20Gallery_9.jpg" height="300px" width="300px">
